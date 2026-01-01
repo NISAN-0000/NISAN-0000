@@ -1,5 +1,5 @@
 # 💫 About Me:
- I’m currently working on: Building a strong foundation in cyber security, Linux and networking.<br> I’m looking to collaborate on: Beginner-friendly cyber security projects, labs and CTFs.<br> I’m looking for help with: Turning cyber security theory into real-world practical skills.<br> I’m currently learning: Ethical hacking basics, system security and attacker mindsets.<br> Ask me about: Cyber security fundamentals, learning paths and system security.<br>Fun fact: I study how systems break so I can learn how to secure them.
+ I’m currently working on: Building a strong foundation in cyber security, Linux and networking.<br> I’m looking to collaborate on: Beginner-friendly cyber security projects, labs and CTFs.<br> I’m looking for help with: Turning cyber security theory into real-world practical skills.<br> I’m currently learning: Ethical hacking basics, system security and attacker mindsets.<br> Ask me about: Cyber security fundamentals, learning paths and system security.<br> Fun fact: I study how systems break so I can learn how to secure them.
 
 
 ## 🌐 Socials:
